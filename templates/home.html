@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+
+{% block title %}
+Home
+{% endblock %}
+
+{% block content %}
+
+<div class="p-10 mb-5">
+    <h2 class="font-bold text-5xl text-white">One Piece</h2>
+    <p class="text-gray-400 py-4">An epic pirate adventure story that follows Monkey D. Luffy on his quest to find the legendary One Piece treasure and become the Pirate King.</p>
+    <p class="text-gray-100">Created by Eiichiro Oda (The Goat)</p>
+</div>
+
+<div class="columns-1 sm:columns-2 md:columns-3 lg:columns-4 gap-4 p-10">
+    {% for project in projects %}
+    <div class="mb-4 break-inside-avoid rounded-lg overflow-hidden shadow-lg text-white bg-gray-800">
+        <img src="{{ project.poster }}" alt="{{ project.title }}" class="w-full">
+        <div class="p-3">
+            <h3 class="text-lg font-semibold">{{ project.title }}</h3>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
+
+{% endblock %}

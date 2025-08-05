@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "Monkey D Luffy",
+        "poster": "https://i.pinimg.com/1200x/61/58/6d/61586ddd738db8da7329908069b39bb1.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Roronoa Zoro",
+        "poster": "https://i.pinimg.com/1200x/80/a3/b0/80a3b03bcf2a744c077f4fe56c8f3d9c.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Nami",
+        "poster": "https://i.pinimg.com/1200x/ee/4c/1a/ee4c1ad2c50122d18e77b37767559f0d.jpg"
+    },
+    {
+        "id": 4,
+        "title": "God Ussop",
+        "poster": "https://i.pinimg.com/1200x/f1/ca/44/f1ca449c5d2082302ec72652e497d900.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Vinsmoke Sanji",
+        "poster": "https://i.pinimg.com/1200x/2e/15/8b/2e158baac77b006b2f412d8506023f8a.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Tony Tony Chopper",
+        "poster": "https://i.pinimg.com/1200x/9a/38/94/9a38944c4d8b00e6582b05b9759195d4.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Nico Robin",
+        "poster": "https://i.pinimg.com/1200x/67/eb/d7/67ebd786c59552814f44339fc317a5f1.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Franky",
+        "poster": "https://i.pinimg.com/1200x/4c/be/c6/4cbec618f824c8a1f1ff0e907ee45fed.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Brook",
+        "poster": "https://i.pinimg.com/1200x/53/d4/41/53d4415b8730c53dc3b34762993ed475.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Jinbei",
+        "poster": "https://i.pinimg.com/1200x/9e/9f/dc/9e9fdc3c8e72f438897682ce015086c0.jpg"
+    },
+    {
+        "id": 11,
+        "title": "Boa Hancock",
+        "poster": "https://i.pinimg.com/1200x/f3/05/0d/f3050dc52941a0b7abc8ee35d5366b0c.jpg"
+    },
+    {
+        "id": 12,
+        "title": "Portgas D Ace",
+        "poster": "https://i.pinimg.com/1200x/20/ef/8d/20ef8d8728573eeaae5658dfbc3fa685.jpg"
+    },
+    {
+        "id": 13,
+        "title": "Sabo",
+        "poster": "https://i.pinimg.com/1200x/9a/b5/9b/9ab59bbf5fdb37f966f12415f95af5ef.jpg"
+    },
+    {
+        "id": 14,
+        "title": "Gol D Roger",
+        "poster": "https://i.pinimg.com/1200x/fb/81/61/fb8161e458dde4ddc10c615276fc2729.jpg"
+    },
+    {
+        "id": 15,
+        "title": "Rayleigh",
+        "poster": "https://i.pinimg.com/1200x/91/87/54/918754cd7d78b1644a9f42bc27df1289.jpg"
+    },
+    {
+        "id": 16,
+        "title": "Shanks",
+        "poster": "https://i.pinimg.com/1200x/e2/c6/e7/e2c6e736660e12fc08abaa5e86a76f5d.jpg"
+    },
+    {
+        "id": 17,
+        "title": "Buggy",
+        "poster": "https://i.pinimg.com/1200x/84/65/50/846550451f553e4a14edc13b6d72d281.jpg"
+    },
+    {
+        "id": 18,
+        "title": "Mihawk",
+        "poster": "https://i.pinimg.com/1200x/27/60/d9/2760d9cb4cf0d3688de38e99c15fe869.jpg"
+    }
+]
